@@ -5,6 +5,8 @@
 *.lo
 *.o
 *.cuo
+*.autosave
+*.user
 
 # Compiled Dynamic libraries
 *.so
